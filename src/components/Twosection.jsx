@@ -1,6 +1,6 @@
 import React from 'react'
 // import job from "../images/section2pic.png";
-import computer from "../images/693.jpg";
+import computer from "../images/f2.png";
 
 export const Twosection = () => {
     return (
